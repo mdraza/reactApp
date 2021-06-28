@@ -1,0 +1,35 @@
+.login-form{ 
+	width:40%;
+	margin:20px;
+}
+.MuiTableCell-head{
+	font-weight: 600 !important;
+}
+.addemp{
+	padding: 5px 15px;
+	color: #fff;
+	border: 2px solid #fff;
+	border-radius: 4px;	
+	text-decoration: none;
+	&:hover{
+		color: #fff;
+	}
+}
+.logout{
+	color: #fff;
+	text-decoration: none;
+	margin-left: 20px;
+	font-size: 18px;
+	&:hover{
+		color: #fff;
+	}
+}
+
+.emp-detl{
+	width: 40% !important;
+	padding: 15px;
+	margin: 50px auto;
+	display: block;
+	// border: 1px solid red;
+	text-align: center;
+}
